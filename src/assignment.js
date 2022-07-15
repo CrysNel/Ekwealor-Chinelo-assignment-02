@@ -31,6 +31,7 @@ console.log(sumOfNumbers(4, 7, 5, 7, 9, 10))
 function countEvenNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
 }
+console.log(countEvenNumbers(12, 22, 3, 67, 12))
 
 // assignment.countEvenNumbers = countEvenNumbers;
 
